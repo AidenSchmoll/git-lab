@@ -58,3 +58,63 @@ Untracked files:
 nothing added to commit but untracked files present (use "git add" to track)
 
 
+Answer 5)
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+
+	new file:   README.md
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	answers.md
+
+
+
+Answer 6)
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+
+	new file:   README.md
+	new file:   answers.md
+
+
+Answer 7)
+On branch master
+nothing to commit, working tree clean
+
+
+Answer 8)
+commit e5b558dcc9351830114e9da29fa418dfa8d5811a (HEAD -> master)
+Author: Aiden Schmoll <as325721@ohio.edu>
+Date:   Wed Jan 25 18:42:48 2023 -0500
+
+    Initial commit
+
+
+Answer 9)
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+
+
+Answer 10)
+Didn't do anything
+
+Answer 11)
+It got rejected
+
+Answer 12)
+My README.md was changed locally
+
+Answer 13)
+.  ..  .git  .gitignore  README.md
